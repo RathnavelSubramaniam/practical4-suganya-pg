@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "javac BoxDemo.java && java BoxDemo",
+      "input": "",
+      "output": "Volume is 3000.0\r\nVolume is 162.0",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
